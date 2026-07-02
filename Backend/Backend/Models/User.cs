@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Backend.Controllers;
 using Microsoft.EntityFrameworkCore;
 
 namespace Backend.Models;
@@ -33,6 +34,9 @@ public partial class User
     [StringLength(20)]
     [Unicode(false)]
     public string Phone { get; set; } = null!;
+
+    [InverseProperty("User")]
+    public virtual ICollection<Contact> Contacts { get; set; } = new List<Contact>();
 
     [InverseProperty("User")]
     public virtual ICollection<Education> Educations { get; set; } = new List<Education>();

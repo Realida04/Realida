@@ -1,0 +1,30 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+.project-container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-top: 50px;
+}
+.project-title{
+     text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  white-space: nowrap;
+  padding-bottom: 10px;
+}
+.line {
+  width: 50%;
+  height: 4px;
+  background-color: #008080;
+  margin: 10px auto;
+}

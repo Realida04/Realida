@@ -20,7 +20,7 @@ namespace Backend.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetExperience(ReadExperienceDTO readExperienceDTO)
+        public async Task<IActionResult> GetExperience()
         {
             var experience = await _context.Experiences.ToListAsync();
             if (experience == null)
@@ -50,7 +50,7 @@ namespace Backend.Controllers
                 Position = createExperienceDTO.Position,
                 StartDate = createExperienceDTO.StartDate,
                 EndDate = createExperienceDTO.EndDate,
-
+                UserId = createExperienceDTO.UserId,
             };
             _context.Experiences.Add(experience);
             await _context.SaveChangesAsync();

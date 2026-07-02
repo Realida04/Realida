@@ -7,5 +7,6 @@
         public string? Subject { get; set; }
 
         public string? Msg { get; set; }
+        public int UserId { get; set; }
     }
 }

@@ -8,5 +8,6 @@
         public int StartDate { get; set; }
 
         public int EndDate { get; set; }
+        public int UserId { get; set; }
     }
 }

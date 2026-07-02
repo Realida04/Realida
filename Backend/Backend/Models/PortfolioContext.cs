@@ -97,4 +97,5 @@ public partial class PortfolioContext : DbContext
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+
 }

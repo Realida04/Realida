@@ -15,7 +15,7 @@ namespace Backend.Controllers
 ;        }
 
         [HttpGet]
-        public async Task<IActionResult> GetProject(ReadprojectDTO readProjectDTO)
+        public async Task<IActionResult> GetProject()
         {
             var project = await _context.Projects.ToListAsync();
             if(project == null)
@@ -40,6 +40,7 @@ namespace Backend.Controllers
         {
             var project = new Project
             {
+                UserId = createProjectDTO.UserId,
                 Title = createProjectDTO.Title,
                 Description = createProjectDTO.Description,
                 Githublink = createProjectDTO.Githublink,

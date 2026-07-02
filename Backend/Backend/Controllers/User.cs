@@ -20,7 +20,7 @@ namespace Backend.Controllers
             }
 
         [HttpGet]
-        public async Task<IActionResult> GetUser(ReadUserDTO readUserDTO)
+        public async Task<IActionResult> GetUser()
         {
             var user = await _context.Users.ToListAsync();
             return Ok(user);

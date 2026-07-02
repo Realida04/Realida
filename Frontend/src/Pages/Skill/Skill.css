@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.skill {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 100px;
+  position: relative;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.skill-head {
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+  white-space: nowrap;
+  padding-bottom: 10px;
+}
+
+.line {
+  width: 50%;
+  height: 4px;
+  background-color: #008080;
+  margin: 10px auto;
+}
+.skill-text {
+  text-align: justify;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+.skill-content {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
+/* .skill-content p{
+    margin-top: 15px;
+    font-size: 18px;
+    background-color: #e2e2e2;
+    color: black;
+    border-radius: 20px;
+    padding: 5px 10px;
+} */

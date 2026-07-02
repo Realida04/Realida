@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Backend.Models;
 
-[Keyless]
+
 [Table("Contact")]
 public partial class Contact
 {

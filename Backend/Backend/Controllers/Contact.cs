@@ -25,7 +25,8 @@ namespace Backend.Controllers
                 { 
                     Name = createContactDTO.Name,
                     Subject = createContactDTO.Subject,
-                    Msg = createContactDTO.Msg
+                    Msg = createContactDTO.Msg,
+                    UserId = createContactDTO.UserId,
                 };
             _context.Contacts.Add(contact);
             await _context.SaveChangesAsync();
@@ -35,7 +36,7 @@ namespace Backend.Controllers
 
 
         [HttpGet]
-        public async Task<IActionResult> GetContact(ReadContactDTO readContactDTO)
+        public async Task<IActionResult> GetContact()
         {
             var contact = await _context.Contacts.ToListAsync();
             return Ok(contact);
@@ -85,7 +86,7 @@ namespace Backend.Controllers
                 }
 
                 _context.Contacts.Remove(contact);
-                await _context.Contacts.FindAsync(id);
+                await _context.SaveChangesAsync();
                 return Ok(contact);
 
 

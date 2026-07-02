@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project_2026\\Realida\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\models\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\models\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\controllers\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\skilldto\\updateskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\skilldto\\updateskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\skilldto\\readskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\skilldto\\readskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\skilldto\\createskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\skilldto\\createskilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\projectdto\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\projectdto\\updateprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\projectdto\\readprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\projectdto\\readprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\projectdto\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\projectdto\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\experiencedto\\updateexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\experiencedto\\updateexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\experiencedto\\readexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\experiencedto\\readexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\experiencedto\\createexperiecedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\experiencedto\\createexperiecedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\contactdto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\contactdto\\updatecontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\contactdto\\readcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\contactdto\\readcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\contactdto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\contactdto\\createcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\educationdto\\createeducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\educationdto\\createeducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\project_2026\\realida\\backend\\backend\\dto\\educationdto\\readeducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\educationdto\\readeducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:28:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioContext.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\PortfolioContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\PortfolioContext.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\PortfolioContext.cs",
+              "RelativeToolTip": "Backend\\Models\\PortfolioContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:53:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Contact.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\Contact.cs",
+              "RelativeToolTip": "Backend\\Models\\Contact.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:42:46.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Backend\\Models\\User.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA6wCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:41:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\User.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\User.cs",
+              "RelativeToolTip": "Backend\\Controllers\\User.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:37:53.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Contact.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Contact.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Contact.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Contact.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:40:59.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Education.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Education.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Education.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Education.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:31:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProjectDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\UpdateProjectDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ProjectDTO\\UpdateProjectDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\UpdateProjectDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ProjectDTO\\UpdateProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Experience.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Experience.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Experience.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Experience.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:47:39.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Project.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Project.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Project.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:50:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Skill.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Skill.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\Controllers\\Skill.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Skill.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:39:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateSkillDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\UpdateSkillDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\SkillDTO\\UpdateSkillDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\UpdateSkillDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\SkillDTO\\UpdateSkillDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:46:28.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadSkillDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\ReadSkillDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\SkillDTO\\ReadSkillDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\ReadSkillDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\SkillDTO\\ReadSkillDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:46:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateSkillDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\CreateSkillDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\SkillDTO\\CreateSkillDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\SkillDTO\\CreateSkillDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\SkillDTO\\CreateSkillDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:46:29.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadProjectDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\ReadProjectDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ProjectDTO\\ReadProjectDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\ReadProjectDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ProjectDTO\\ReadProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateProjectDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\CreateProjectDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ProjectDTO\\CreateProjectDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ProjectDTO\\CreateProjectDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ProjectDTO\\CreateProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:41.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateExperienceDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\UpdateExperienceDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ExperienceDTO\\UpdateExperienceDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\UpdateExperienceDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ExperienceDTO\\UpdateExperienceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:30.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadExperienceDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\ReadExperienceDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ExperienceDTO\\ReadExperienceDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\ReadExperienceDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ExperienceDTO\\ReadExperienceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateExperieceDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\CreateExperieceDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ExperienceDTO\\CreateExperieceDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ExperienceDTO\\CreateExperieceDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ExperienceDTO\\CreateExperieceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:48:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateContactDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\UpdateContactDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ContactDTO\\UpdateContactDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\UpdateContactDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ContactDTO\\UpdateContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:47:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReadContactDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\ReadContactDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ContactDTO\\ReadContactDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\ReadContactDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ContactDTO\\ReadContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:47:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateContactDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\CreateContactDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\ContactDTO\\CreateContactDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\ContactDTO\\CreateContactDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\ContactDTO\\CreateContactDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:47:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReadEducationDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\EducationDTO\\ReadEducationDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\EducationDTO\\ReadEducationDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\EducationDTO\\ReadEducationDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\EducationDTO\\ReadEducationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:35:25.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateEducationDTO.cs",
+              "DocumentMoniker": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\EducationDTO\\CreateEducationDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\EducationDTO\\CreateEducationDTO.cs",
+              "ToolTip": "C:\\Project_2026\\Realida\\Backend\\Backend\\DTO\\EducationDTO\\CreateEducationDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\EducationDTO\\CreateEducationDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:35:07.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

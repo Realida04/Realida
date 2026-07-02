@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@
 
 section {
     width: 100%;
-    background-color: #1e293b;
+    background-color: #f6f5f5;
     padding: 15px 40px;
 }
 
@@ -20,11 +20,12 @@ section {
 
 
 .logo{
-    color: white;
+    color: black;
     font-size: 28px;
     font-weight: bold;
     cursor: pointer;
     text-align:left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
 
@@ -36,16 +37,16 @@ ul {
 
 ul li a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 18px;
     transition: color 0.3s ease;
 }
 
 ul li a:hover {
     color:white;
-    background-color: #c0e1ef;
+    background-color: #008080;
     padding: 5px 10px;
-    border-radius: 20px;
+    border-radius: 22px;
 }
 
 /* Button */

@@ -8,16 +8,16 @@ namespace Backend.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
-    public class EducationController : ControllerBase
+    public class Education : ControllerBase
     {
         private readonly PortfolioContext _context;
-          public EducationController(PortfolioContext context)
+          public Education(PortfolioContext context)
         {
             _context = context;
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetEducation(ReadEducationDTO readEducatoinDTO)
+        public async Task<IActionResult> GetEducation()
         {
             var education = await _context.Educations.ToListAsync();
             if (education == null)
@@ -41,12 +41,13 @@ namespace Backend.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateEducation(CreateEducationDTO createEducationDTO)
         {
-           var education = new Education
+           var education = new Models.Education
            {
                Institution = createEducationDTO.Institution,
                Degree = createEducationDTO.Degree,
                Field = createEducationDTO.Field,
                StartYear = createEducationDTO.StartYear,
+               UserId = createEducationDTO.UserId
            };
             _context.Educations.Add(education);
             await _context.SaveChangesAsync();
@@ -69,6 +70,7 @@ namespace Backend.Controllers
                 education.Degree = updateEducationDTO.Degree;
                 education.Field = updateEducationDTO.Field;
                 education.StartYear = updateEducationDTO.StartYear;
+                
             }
             await _context.SaveChangesAsync();
             return Ok(education);
