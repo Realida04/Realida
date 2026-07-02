@@ -5,7 +5,11 @@ function NavBar() {
   return (
     <section>
       <div className="navbar">
-        <h2 className="logo">Realida</h2>
+        <h2 className="logo">
+           <span className="tag">&lt;</span>
+        <span className="name">Realida</span>
+        <span className="tag">/&gt;</span>
+        </h2>
 
         <div className="nav-links">
           <ul>

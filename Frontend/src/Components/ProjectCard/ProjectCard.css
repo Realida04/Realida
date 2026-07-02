@@ -1,0 +1,36 @@
+*{
+    
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.project-card-content{
+    text-align: justify;
+}
+.project-card-content h3{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:
+      "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+      Arial, sans-serif;
+    white-space: nowrap;
+    padding-bottom: 10px;
+   color:#012222;
+   margin:0;
+
+}
+.project-card-content p{
+    font-size: 16px;
+    line-height: 1.6;
+    font-family:
+      "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+      Arial, sans-serif;
+    
+}
+.project-card-content a{
+    text-decoration: none;
+    color: #008080;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    margin-top: 5px;
+}
